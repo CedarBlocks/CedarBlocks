@@ -1,7 +1,6 @@
-### Hi there 👋
-
-
-![JLDENSMORE's github stats](https://github-readme-stats.vercel.app/api?username=CedarBlocks&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CedarBlocks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <a href="https://discord.com/users/409859533691813889">
+  <img src="https://lanyard-profile-readme.vercel.app/api/409859533691813889?borderRadius=17px&showDisplayName=true"/>
 <!--
 **JLDENSMORE/JLDENSMORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
